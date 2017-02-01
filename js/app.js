@@ -15,12 +15,15 @@ $( document ).ready(function(){
 //
 // })
 
-$('#drinks').append('<li>Squirt</li>')
-$('#drinks').append('<li>Diet Mtn Dew</li>')
+$('#drinks').append('<li>Jameson</li>')
+$('#drinks').append('<li>Stella</li>')
 $('#drinks').append('<li>Coke</li>')
+$('#drinks').append('<li>McCallans</li>')
+$('#drinks').append('<li>Patron</li>')
+$('#drinks').append('<li>Grey Goose</li>')
 
 
-var foods = ['burgers', 'fries', 'tacos', 'sCallops']
+var foods = ['Sketti', 'Pigs Feet', 'Tacos', 'sCallops']
 // for (var i = 0; i < foods.length; i++) {
 //   $('#foods').append('<li>' + foods[i] + '</li>')
 // }
