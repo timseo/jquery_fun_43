@@ -1,6 +1,6 @@
-// $( document ).ready(function(){
+$( document ).ready(function(){
   //all of your other stuff = $(function(){
-$(function(){
+// $(function(){
 
   console.log('here i am')
 
